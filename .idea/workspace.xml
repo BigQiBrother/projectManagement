@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24a0dc3f-3ddd-45a2-b490-8f4a1e184dd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/agiletest$AgiletestApplicationTests_testTicketRefund.coverage" NAME="AgiletestApplicationTests.testTicketRefund Coverage Results" MODIFIED="1545608268150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.agile.agiletest.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>update</find>
+      <find>info</find>
+      <find>source</find>
+      <find>ticketform</find>
+      <find>ticketTable</find>
+      <find>信息</find>
+      <find>val()</find>
+      <find>trueName</find>
+      <find>个人信息</find>
+      <find>paymon</find>
+      <find>改签</find>
+      <find>refun</find>
+      <find>orderForm</find>
+      <find>orderform</find>
+      <find>table</find>
+      <find>destinationLocation</find>
+      <find>destin</find>
+      <find>getorder</find>
+      <find>ticketPrice</find>
+      <find>退票</find>
+      <find>orderDetail</find>
+      <find>pay</find>
+      <find>refun1</find>
+      <find>local</find>
+      <find>查看</find>
+      <find>购票</find>
+      <find>submit</find>
+      <find>查询</find>
+      <find>queryform</find>
+      <find>localhost</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Java\maven-Repository" />
+        <option name="mavenHome" value="E:/Java/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Java\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c3o4Ce1N7Pgde6CcAShMAabv6h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545012084031" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\15915\Desktop\作业\项目管理\SpringbootTest-master\SpringbootTest-master\agiletest\src\main\resources\static1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.agile.agiletest.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\15915\Desktop\作业\项目管理\SpringbootTest-master\SpringbootTest-master\agiletest\src\main\resources\static" />
+      <recent name="C:\Users\15915\Desktop\作业\项目管理\SpringbootTest-master\SpringbootTest-master\agiletest\src\main\resources" />
+      <recent name="D:\github repository\agiletest\src\main\resources\static\static\js" />
+      <recent name="D:\github repository\agiletest\src\main\resources\static\static\fontpage" />
+      <recent name="D:\github repository\agiletest\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AgiletestApplication">
+    <configuration name="AgiletestApplicationTests.testGetPersonInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agiletest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agile.agiletest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.agile.agiletest" />
+      <option name="MAIN_CLASS_NAME" value="com.agile.agiletest.AgiletestApplicationTests" />
+      <option name="METHOD_NAME" value="testGetPersonInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgiletestApplicationTests.testPayMoney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agiletest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agile.agiletest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.agile.agiletest" />
+      <option name="MAIN_CLASS_NAME" value="com.agile.agiletest.AgiletestApplicationTests" />
+      <option name="METHOD_NAME" value="testPayMoney" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgiletestApplicationTests.testTicketRefund" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agiletest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agile.agiletest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.agile.agiletest" />
+      <option name="MAIN_CLASS_NAME" value="com.agile.agiletest.AgiletestApplicationTests" />
+      <option name="METHOD_NAME" value="testTicketRefund" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgiletestApplicationTests.testUpdateUserDe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agiletest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agile.agiletest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.agile.agiletest" />
+      <option name="MAIN_CLASS_NAME" value="com.agile.agiletest.AgiletestApplicationTests" />
+      <option name="METHOD_NAME" value="testUpdateUserDe" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgiletestApplicationTests.updateUserInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="agiletest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.agile.agiletest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.agile.agiletest" />
+      <option name="MAIN_CLASS_NAME" value="com.agile.agiletest.AgiletestApplicationTests" />
+      <option name="METHOD_NAME" value="updateUserInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgiletestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="agiletest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.agile.agiletest.AgiletestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AgiletestApplicationTests.updateUserInfo" />
+      <item itemvalue="JUnit.AgiletestApplicationTests.testUpdateUserDe" />
+      <item itemvalue="JUnit.AgiletestApplicationTests.testPayMoney" />
+      <item itemvalue="JUnit.AgiletestApplicationTests.testGetPersonInfo" />
+      <item itemvalue="JUnit.AgiletestApplicationTests.testTicketRefund" />
+      <item itemvalue="Spring Boot.AgiletestApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AgiletestApplicationTests.testTicketRefund" />
+        <item itemvalue="JUnit.AgiletestApplicationTests.testGetPersonInfo" />
+        <item itemvalue="JUnit.AgiletestApplicationTests.testPayMoney" />
+        <item itemvalue="JUnit.AgiletestApplicationTests.testUpdateUserDe" />
+        <item itemvalue="JUnit.AgiletestApplicationTests.updateUserInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24a0dc3f-3ddd-45a2-b490-8f4a1e184dd2" name="Default Changelist" comment="" />
+      <created>1544964466089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544964466089</updated>
+      <workItem from="1544964474175" duration="8600000" />
+      <workItem from="1545017388073" duration="168000" />
+      <workItem from="1545017938830" duration="201000" />
+      <workItem from="1545018682191" duration="20405000" />
+      <workItem from="1545185062851" duration="16584000" />
+      <workItem from="1545307192545" duration="1575000" />
+      <workItem from="1545309459843" duration="1383000" />
+      <workItem from="1545447151916" duration="5383000" />
+      <workItem from="1545452581428" duration="569000" />
+      <workItem from="1545476366953" duration="2724000" />
+      <workItem from="1545570467780" duration="5356000" />
+      <workItem from="1545608229536" duration="478000" />
+      <workItem from="1545609076123" duration="84000" />
+      <workItem from="1545625566846" duration="12869000" />
+      <workItem from="1545660563895" duration="27000" />
+      <workItem from="1545789464896" duration="18719000" />
+      <workItem from="1545988655400" duration="7265000" />
+      <workItem from="1546049009722" duration="613000" />
+      <workItem from="1589766451557" duration="347000" />
+      <workItem from="1589766819261" duration="9108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589766903449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589766903449" />
+    <state width="1493" height="282" key="GridCell.Tab.0.bottom" timestamp="1589781276911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589781276911" />
+    <state width="1493" height="282" key="GridCell.Tab.0.center" timestamp="1589781276911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589781276911" />
+    <state width="1493" height="282" key="GridCell.Tab.0.left" timestamp="1589781276911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589781276911" />
+    <state width="1493" height="282" key="GridCell.Tab.0.right" timestamp="1589781276911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589781276911" />
+    <state width="1493" height="282" key="GridCell.Tab.1.bottom" timestamp="1589781276911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589781276911" />
+    <state width="1493" height="282" key="GridCell.Tab.1.center" timestamp="1589781276911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589781276911" />
+    <state width="1493" height="282" key="GridCell.Tab.1.left" timestamp="1589781276911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589781276911" />
+    <state width="1493" height="282" key="GridCell.Tab.1.right" timestamp="1589781276911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589781276911" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1589773177064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589773177064" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/agile/agiletest/AgiletestApplicationTests.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/agile/agiletest/AgiletestApplicationTests.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/agile/agiletest/AgiletestApplicationTests.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/agile/agiletest/AgiletestApplicationTests.java</url>
+          <line>186</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/agile/agiletest/controller/TicketController.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
